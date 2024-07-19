@@ -1,3 +1,7 @@
+# 📖 Projeto Ebook criado por IA!
+
+<a href="https://github.com/bela-lage/prompts-ebook/blob/main/Ebook_v2.pdf" title="View PDF now"> ✨Clique aqui para ler!</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 * ChatGPT
 * Copilot
